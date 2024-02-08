@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-min-unsigned-integer-dtype",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Determine the minimum array data type for storing a provided unsigned integer value.",
   "license": "Apache-2.0",
   "author": {
